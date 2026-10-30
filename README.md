@@ -9,6 +9,7 @@
 
 - Human-aligned prompt augmentation improves GPT--human agreement.
 
+https://www.sciencedirect.com/science/article/pii/S2667305326001122
 
 
 ## Citation
